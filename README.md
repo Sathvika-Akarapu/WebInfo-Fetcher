@@ -9,7 +9,7 @@ A simple Java tool that fetches website details like **Title, Meta Description, 
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/WebsiteInfoFetcher.git
+git clone https://github.com/Sathvika-Akarapu/WebInfo-Fetcher.git
 2. Add **JSoup** dependency (if using Maven):
 ```xml
 <dependency>
